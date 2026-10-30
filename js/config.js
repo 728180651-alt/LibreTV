@@ -81,6 +81,35 @@ const API_SITES = {
         api: 'https://cj.rycjapi.com',
         name: '如意资源',
     },
+    lz: {
+        api: 'https://cj.lziapi.com',
+        name: '量子资源',
+        detail: 'https://www.lziapi.com'
+    },
+    wujin: {
+        api: 'https://api.wujinapi.com',
+        name: '无尽资源',
+    },
+    guangsu: {
+        api: 'https://api.guangsuapi.com',
+        name: '光速资源',
+    },
+    hongniu: {
+        api: 'https://www.hongniuzy2.com',
+        name: '红牛资源',
+    },
+    dytt: {
+        api: 'http://caiji.dyttzyapi.com',
+        name: '电影天堂',
+    },
+    bdzy: {
+        api: 'https://api.apibdzy.com',
+        name: '百度资源',
+    },
+    zuid: {
+        api: 'https://api.zuidapi.com',
+        name: '最D资源',
+    },
     jkun: {
         api: 'https://jkunzyapi.com',
         name: 'jkun资源',
